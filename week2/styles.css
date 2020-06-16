@@ -6,4 +6,6 @@ body {
   line-hieght: 140%;
    background-image: url("page-bg.gif");
   background-color: #F7F3DE;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
