@@ -28,6 +28,12 @@ nav {
 }
 
 footer {
+   p.clear {
+  clear: both;
+}
+  div.a {
+  text-align: center;
+}
   
 }
 
